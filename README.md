@@ -1,4 +1,4 @@
-### All data except specific data is managed privately.
+### All data except specific data is managed private.
 
 <!--
 **Tena9158/Tena9158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
